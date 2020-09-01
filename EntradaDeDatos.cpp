@@ -2,6 +2,17 @@
 
 #include <iostream>
 
+/*
+Caracteres especiales en C++
+a-> \xA0
+e-> \x82
+i-> \xA1
+o-> \xA2
+u-> \xA3
+ñ-> \xA4
+Ñ-> \xA5
+*/
+
 using namespace std;
 
 int main(){
@@ -20,7 +31,7 @@ int main(){
 	
 	cin>>fNumero1;
 	
-	cout<<"\nEl n\xA3mero que ingresaste es: "<<fNumero1;
+	cout<<"\nEl n\xA3mero que ingresaste es: "<<fNumero1<<endl;
 	
 	return 0;
 }//fin int main
