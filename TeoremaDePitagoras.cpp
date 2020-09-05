@@ -6,7 +6,9 @@ Su hipotenusa
 */
 
 #include <iostream>
-#incluce <math.h>
+#include <math.h>
+
+//Ahora si funciona 
 
 using namespace std;
 
