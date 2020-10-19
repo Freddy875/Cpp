@@ -17,7 +17,7 @@ int main(){
 	int iNumero1;
 
 	iNumero1 = 0;
-
+¬
 	cout<<"Incremento"<<endl; 
 
 	while (iNumero1 <= 10){
