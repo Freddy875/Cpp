@@ -35,6 +35,8 @@ int main(){
         
     }//fin for
 
+    //Mostrar la matriz original
+
     cout<<"Matriz Original\n";
     for (int iContador = 0; iContador < 3; iContador++)
     {
@@ -44,6 +46,8 @@ int main(){
         }//fin for
         cout<<"\n";
     }//fin for
+
+    //Mostrar la matriz traspuesta
 
     cout<<"Matriz Traspuesta\n";
     for (int iContador = 0; iContador < 3; iContador++)
