@@ -3,6 +3,8 @@ Añadir o concatenar una cadena con otra
 Funcion strcat()
 son las siglas en ingles
 de string concatenate
+que se traduce como 
+concatenar una cadena 
 
 */
 
