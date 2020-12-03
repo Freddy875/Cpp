@@ -14,13 +14,23 @@ using namespace std;
 
 int main(){
 	
-    char cPalabra1[] = "freddy";
+    char sPalabra1[] = "freddy";
 
-    strupr(cPalabra1);
+    //Palabra original
 
-    cout<<cPalabra1<<endl;
+    printf("Palabra original: %s\n", sPalabra1);
 
-	
+    //cout<<cPalabra1<<endl;
+
+    //strupr(cPalabra1);
+
+    //Palabra en Mayusculas
+
+    //cout<<cPalabra1<<endl;
+
+    printf("Palabra en Mayusculas: %s\n", strupr(sPalabra1));
+
+    getch();
 	
 	return 0;
 }//fin int main
